@@ -12,7 +12,7 @@ title                    : "Michael Will / Personal Website"
 title_separator          : "-"
 name                     : &name "Michael Will"
 description              : &description "PhD Student in Computer Science"
-url                      : m-s-will.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://m-s-will.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "m-s-will.github.io"
 
