@@ -1,7 +1,7 @@
 ---
 title: "Developing and Evaluating In Situ Visualization Algorithms using Containers"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021-11-01-Developing-and-Evaluating-In-Situ-Visualization-Algorithms-using-Containers
 date: 2021-11-01
 venue: 'ISAVtextquotesingle21: In Situ Infrastructures for Enabling Extreme-Scale Analysis and Visualization'

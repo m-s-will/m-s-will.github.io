@@ -1,7 +1,7 @@
 ---
 title: "TTK is Getting MPI-Ready"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-08-01-TTK-is-Getting-MPI-Ready
 date: 2024-08-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
