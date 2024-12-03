@@ -1,6 +1,7 @@
 ---
 title: "ExTreeM: Scalable Augmented Merge Tree Computation via Extremum Graphs"
 collection: publications
+category: conference
 permalink: /publication/2023-01-01-ExTreeM-Scalable-Augmented-Merge-Tree-Computation-via-Extremum-Graphs
 date: 2023-01-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
