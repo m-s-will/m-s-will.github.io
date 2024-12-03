@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Technische Universität Kaiserslautern, 2021
+* B.S. in Computer Science, Technische Universität Kaiserslautern, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2024: Visiting Research Scholar
+  * Los Alamos National Lab
+  * Working on reconstructing material interfaces in multi-material flows.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Visiting Research Scholar
+  * Lawrence Berkeley National Lab
+  * Working on scaling analyses for distributed computational topology and investigating different merge tree algorithms.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Jul 2018 - Jan 2024: Founder and Managing Partner
+  * Delta IT-Systeme
+  * Co-Founder of "Delta IT-Systeme": Development of interdisciplinary hard- and softwaresystems ("Smart Systems") for third parties, and development of the biking incentive platform Bewelo, responsible for web-based development, and project management
+
+* since Nov 2018: Research Assistant for Scientific Visualization
+  * Technische Universität Kaiserslautern
+
+* Winter 2020/2019/2018: Teaching Assistant for Project Management
+  * Technische Universität Kaiserslautern
+
+* Summer 2017: Teaching Assistant for Communication Systems
+  * Technische Universität Kaiserslautern
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Basics: CSS, HTML, JavaScript, OpenGL, React Native, Java
+* Deeper Understanding: C++, Docker, LATEX, Linux, Microsoft Windows, Paraview, Python
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
