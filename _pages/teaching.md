@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Student theses
+Student Theses
 ======
 * Winter 2024: Master's Thesis
   * Timo Sonnenschein: Interactive Rendering unsing Hardware Accelerated Ray Tracing
