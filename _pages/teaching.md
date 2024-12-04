@@ -14,7 +14,7 @@ author_profile: true
 Student Theses
 ======
 * Winter 2024: Master's Thesis
-  * Timo Sonnenschein: Interactive Rendering unsing Hardware Accelerated Ray Tracing
+  * Timo Sonnenschein: Interactive Rendering using Hardware Accelerated Ray Tracing
 
 * Summer 2024: Bachelor's Thesis
   * Samuel Klaaßen: Bringing a Qt/C++ visualization application to the web: Voronoi Treemaps as a case study
