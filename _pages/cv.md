@@ -18,11 +18,11 @@ Education
 Work experience
 ======
 * Winter 2024: Visiting Research Scholar
-  * Los Alamos National Lab
+  * Los Alamos National Laboratory
   * Working on reconstructing material interfaces in multi-material flows.
 
 * Summer 2023: Visiting Research Scholar
-  * Lawrence Berkeley National Lab
+  * Lawrence Berkeley National Laboratory
   * Working on scaling analyses for distributed computational topology and investigating different merge tree algorithms.
 
 * Jul 2018 - Jan 2024: Founder and Managing Partner
