@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * since 2022, PhD Student in Computer Science, RPTU Kaiserslautern-Landau
-* M.S. in Computer Science, Technische Universität Kaiserslautern, 2021
-* B.S. in Computer Science, Technische Universität Kaiserslautern, 2018
+* M.S. in Computer Science, Technische Universität Kaiserslautern, graduated 2021
+* B.S. in Computer Science, Technische Universität Kaiserslautern, graduated 2018
 
 Work experience
 ======
