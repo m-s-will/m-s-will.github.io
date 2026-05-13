@@ -17,6 +17,16 @@ Education
 
 Work experience
 ======
+
+* Summer 2026: Visiting Research Scholar
+  * Los Alamos National Laboratory
+  * Working on reconstructing material interfaces in 3-dimensional multi-material flows.
+
+* Summer 2025: Visiting Research Scholar
+  * Los Alamos National Laboratory
+  * Working on reconstructing material interfaces in 3-dimensional multi-material flows.
+
+
 * Winter 2024: Visiting Research Scholar
   * Los Alamos National Laboratory
   * Working on reconstructing material interfaces in multi-material flows.

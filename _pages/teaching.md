@@ -13,6 +13,9 @@ author_profile: true
 
 Student Theses
 ======
+* Winter 2025: Bachelor's Thesis
+  * Marlon Fickus: Visualization of Scientific Volume Data Using Sparse Voxel Rasterization
+
 * Winter 2024: Master's Thesis
   * Timo Sonnenschein: Interactive Rendering using Hardware Accelerated Ray Tracing
 
