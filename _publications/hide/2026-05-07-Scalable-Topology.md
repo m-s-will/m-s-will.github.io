@@ -10,4 +10,4 @@ citation: ' Will, Michael and Lukasczyk, Jonas and Tierny, Julien and Gyulassy, 
 ---
 
 Paper currently in publication process.
-[Access a preprint version here.](https://hal.science/hal-05623089v1){:target="_blank"}-->
+[Access a preprint version here.](https://hal.science/hal-05623089v1){:target="_blank"}
