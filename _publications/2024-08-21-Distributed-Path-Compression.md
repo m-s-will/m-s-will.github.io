@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-08-21-Distributed-Path-Compression
 date: 2024-08-21
 venue: 'LDAV 2024: The 14th IEEE Symposium on Large Data Analysis and Visualization'
-paperurl: 'https://arxiv.org/abs/2409.03771'
+paperurl: 'https://doi.org/10.1109/LDAV64567.2024.00007'
 citation: ' Will, Michael and Lukasczyk, Jonas and Tierny, Julien and Garth, Christoph, &quot;Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components.&quot; LDAV, 2024.'
 ---
-[Access paper here](https://arxiv.org/abs/2409.03771){:target="_blank"}
+[Access paper here](https://doi.org/10.1109/LDAV64567.2024.00007){:target="_blank"}
